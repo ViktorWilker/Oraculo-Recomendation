@@ -1,0 +1,647 @@
+{
+  "media": [
+    {
+      "title": "Blade Runner 2049",
+      "type": "MOVIE",
+      "year": 2017,
+      "creator": "Denis Villeneuve",
+      "duration": "2h 44min",
+      "description": "Um jovem policial descobre um segredo que pode destruir o que resta da sociedade.",
+      "tags": [
+        "Sci-Fi",
+        "Neo-Noir",
+        "Cyberpunk",
+        "Distopia"
+      ]
+    },
+    {
+      "title": "Dune: Part Two",
+      "type": "MOVIE",
+      "year": 2024,
+      "creator": "Denis Villeneuve",
+      "duration": "2h 46min",
+      "description": "A continuação épica da saga de Paul Atreides no deserto de Arrakis.",
+      "tags": [
+        "Sci-Fi",
+        "Épico",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Arrival",
+      "type": "MOVIE",
+      "year": 2016,
+      "creator": "Denis Villeneuve",
+      "duration": "1h 56min",
+      "description": "Uma linguista é recrutada para comunicar com extraterrestres que chegam à Terra.",
+      "tags": [
+        "Sci-Fi",
+        "Drama",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "The Matrix",
+      "type": "MOVIE",
+      "year": 1999,
+      "creator": "Wachowski",
+      "duration": "2h 16min",
+      "description": "Um hacker descobre que o mundo é uma simulação criada por máquinas.",
+      "tags": [
+        "Sci-Fi",
+        "Ação",
+        "Cyberpunk",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "Interstellar",
+      "type": "MOVIE",
+      "year": 2014,
+      "creator": "Christopher Nolan",
+      "duration": "2h 49min",
+      "description": "Astronautas viajam por um buraco de minhoca em busca de um novo lar para a humanidade.",
+      "tags": [
+        "Sci-Fi",
+        "Drama",
+        "Épico"
+      ]
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "type": "MOVIE",
+      "year": 1968,
+      "creator": "Stanley Kubrick",
+      "duration": "2h 29min",
+      "description": "Uma missão espacial revela uma inteligência além da compreensão humana.",
+      "tags": [
+        "Sci-Fi",
+        "Filosófico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Annihilation",
+      "type": "MOVIE",
+      "year": 2018,
+      "creator": "Alex Garland",
+      "duration": "1h 55min",
+      "description": "Uma bióloga entra em uma zona misteriosa onde as leis da natureza não se aplicam.",
+      "tags": [
+        "Sci-Fi",
+        "Terror",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "Parasite",
+      "type": "MOVIE",
+      "year": 2019,
+      "creator": "Bong Joon-ho",
+      "duration": "2h 12min",
+      "description": "Uma família pobre infiltra-se na vida de uma família rica com consequências imprevisíveis.",
+      "tags": [
+        "Drama",
+        "Thriller",
+        "Social"
+      ]
+    },
+    {
+      "title": "The Lighthouse",
+      "type": "MOVIE",
+      "year": 2019,
+      "creator": "Robert Eggers",
+      "duration": "1h 49min",
+      "description": "Dois faroleiros ficam presos em uma ilha remota e começam a enlouquecer.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "type": "MOVIE",
+      "year": 2022,
+      "creator": "Daniels",
+      "duration": "2h 19min",
+      "description": "Uma lavanderia descobre que pode acessar universos paralelos para salvar a existência.",
+      "tags": [
+        "Sci-Fi",
+        "Comédia",
+        "Drama",
+        "Multiverso"
+      ]
+    },
+    {
+      "title": "Oppenheimer",
+      "type": "MOVIE",
+      "year": 2023,
+      "creator": "Christopher Nolan",
+      "duration": "3h",
+      "description": "A história do físico que liderou o desenvolvimento da bomba atômica.",
+      "tags": [
+        "Drama",
+        "Histórico",
+        "Épico"
+      ]
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "type": "MOVIE",
+      "year": 2015,
+      "creator": "George Miller",
+      "duration": "2h",
+      "description": "Em um mundo pós-apocalíptico, uma guerreira rebela-se contra um tirano.",
+      "tags": [
+        "Ação",
+        "Distopia",
+        "Épico"
+      ]
+    },
+    {
+      "title": "Her",
+      "type": "MOVIE",
+      "year": 2013,
+      "creator": "Spike Jonze",
+      "duration": "2h 6min",
+      "description": "Um homem solitário desenvolve uma relação com um sistema operacional com inteligência artificial.",
+      "tags": [
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "The Witch",
+      "type": "MOVIE",
+      "year": 2015,
+      "creator": "Robert Eggers",
+      "duration": "1h 32min",
+      "description": "Uma família puritana no século XVII enfrenta forças sobrenaturais na Nova Inglaterra.",
+      "tags": [
+        "Terror",
+        "Histórico",
+        "Psicológico"
+      ]
+    },
+    {
+      "title": "Prisoners",
+      "type": "MOVIE",
+      "year": 2013,
+      "creator": "Denis Villeneuve",
+      "duration": "2h 33min",
+      "description": "Um pai desesperado toma medidas extremas quando sua filha desaparece.",
+      "tags": [
+        "Thriller",
+        "Drama",
+        "Policial"
+      ]
+    },
+    {
+      "title": "Before Sunrise",
+      "type": "MOVIE",
+      "year": 1995,
+      "creator": "Richard Linklater",
+      "duration": "1h 41min",
+      "description": "Dois jovens se conhecem em um trem e passam uma noite inesquecível caminhando por Viena.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Before Sunset",
+      "type": "MOVIE",
+      "year": 2004,
+      "creator": "Richard Linklater",
+      "duration": "1h 20min",
+      "description": "Nove anos após seu primeiro encontro, Jesse e Céline se reencontram em Paris.",
+      "tags": [
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "type": "MOVIE",
+      "year": 2004,
+      "creator": "Michel Gondry",
+      "duration": "1h 48min",
+      "description": "Após o fim de um relacionamento, um homem decide apagar as memórias de sua ex-namorada.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Sci-Fi",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "La La Land",
+      "type": "MOVIE",
+      "year": 2016,
+      "creator": "Damien Chazelle",
+      "duration": "2h 8min",
+      "description": "Uma atriz e um músico tentam conciliar seus sonhos profissionais com seu relacionamento.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Musical"
+      ]
+    },
+    {
+      "title": "Your Name",
+      "type": "MOVIE",
+      "year": 2016,
+      "creator": "Makoto Shinkai",
+      "duration": "1h 46min",
+      "description": "Dois adolescentes misteriosamente passam a trocar de corpos e desenvolvem uma conexão profunda.",
+      "tags": [
+        "Romance",
+        "Fantasia",
+        "Drama",
+        "Anime"
+      ]
+    },
+    {
+      "title": "About Time",
+      "type": "MOVIE",
+      "year": 2013,
+      "creator": "Richard Curtis",
+      "duration": "2h 3min",
+      "description": "Um jovem descobre que pode viajar no tempo e tenta melhorar sua vida amorosa.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Comédia",
+        "Fantasia"
+      ]
+    },
+    {
+      "title": "Notting Hill",
+      "type": "MOVIE",
+      "year": 1999,
+      "creator": "Roger Michell",
+      "duration": "2h 4min",
+      "description": "Um livreiro londrino se apaixona por uma das atrizes mais famosas do mundo.",
+      "tags": [
+        "Romance",
+        "Comédia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "500 Days of Summer",
+      "type": "MOVIE",
+      "year": 2009,
+      "creator": "Marc Webb",
+      "duration": "1h 35min",
+      "description": "Um jovem relembra os altos e baixos de seu relacionamento com Summer.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Comédia"
+      ]
+    },
+    {
+      "title": "The Princess Bride",
+      "type": "MOVIE",
+      "year": 1987,
+      "creator": "Rob Reiner",
+      "duration": "1h 38min",
+      "description": "Um jovem embarca em uma aventura para resgatar a mulher que ama.",
+      "tags": [
+        "Romance",
+        "Fantasia",
+        "Aventura",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Atonement",
+      "type": "MOVIE",
+      "year": 2007,
+      "creator": "Joe Wright",
+      "duration": "2h 3min",
+      "description": "Uma acusação falsa separa dois amantes e altera suas vidas para sempre.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Histórico"
+      ]
+    },
+    {
+      "title": "The Shape of Water",
+      "type": "MOVIE",
+      "year": 2017,
+      "creator": "Guillermo del Toro",
+      "duration": "2h 3min",
+      "description": "Uma mulher muda desenvolve uma ligação inesperada com uma criatura anfíbia mantida em cativeiro.",
+      "tags": [
+        "Romance",
+        "Fantasia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Shining",
+      "type": "MOVIE",
+      "year": 1980,
+      "creator": "Stanley Kubrick",
+      "duration": "2h 26min",
+      "description": "Um escritor aceita o trabalho de zelador de um hotel isolado durante o inverno e lentamente perde a sanidade.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Clássico",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Hereditary",
+      "type": "MOVIE",
+      "year": 2018,
+      "creator": "Ari Aster",
+      "duration": "2h 7min",
+      "description": "Uma família é assombrada por segredos obscuros após a morte da matriarca.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Sobrenatural",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Thing",
+      "type": "MOVIE",
+      "year": 1982,
+      "creator": "John Carpenter",
+      "duration": "1h 49min",
+      "description": "Pesquisadores na Antártida enfrentam uma entidade capaz de imitar qualquer ser vivo.",
+      "tags": [
+        "Terror",
+        "Sci-Fi",
+        "Clássico",
+        "Paranoia"
+      ]
+    },
+    {
+      "title": "The Exorcist",
+      "type": "MOVIE",
+      "year": 1973,
+      "creator": "William Friedkin",
+      "duration": "2h 2min",
+      "description": "Uma jovem é possuída por uma entidade demoníaca e sua mãe busca ajuda desesperadamente.",
+      "tags": [
+        "Terror",
+        "Sobrenatural",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Get Out",
+      "type": "MOVIE",
+      "year": 2017,
+      "creator": "Jordan Peele",
+      "duration": "1h 44min",
+      "description": "Um jovem visita a família de sua namorada e descobre algo profundamente perturbador.",
+      "tags": [
+        "Terror",
+        "Suspense",
+        "Psicológico",
+        "Social"
+      ]
+    },
+    {
+      "title": "Midsommar",
+      "type": "MOVIE",
+      "year": 2019,
+      "creator": "Ari Aster",
+      "duration": "2h 28min",
+      "description": "Um grupo de amigos visita um festival tradicional na Suécia e descobre rituais perturbadores.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Folk Horror",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Babadook",
+      "type": "MOVIE",
+      "year": 2014,
+      "creator": "Jennifer Kent",
+      "duration": "1h 34min",
+      "description": "Uma mãe viúva e seu filho passam a ser aterrorizados por uma figura saída de um livro infantil.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Sobrenatural",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Ring",
+      "type": "MOVIE",
+      "year": 2002,
+      "creator": "Gore Verbinski",
+      "duration": "1h 55min",
+      "description": "Uma jornalista investiga uma fita de vídeo amaldiçoada ligada a mortes misteriosas.",
+      "tags": [
+        "Terror",
+        "Sobrenatural",
+        "Mistério"
+      ]
+    },
+    {
+      "title": "28 Days Later",
+      "type": "MOVIE",
+      "year": 2002,
+      "creator": "Danny Boyle",
+      "duration": "1h 53min",
+      "description": "Um homem acorda de um coma e encontra a Inglaterra devastada por uma epidemia violenta.",
+      "tags": [
+        "Terror",
+        "Pós-Apocalíptico",
+        "Sobrevivência",
+        "Zumbis"
+      ]
+    },
+    {
+      "title": "Whiplash",
+      "type": "MOVIE",
+      "year": 2014,
+      "creator": "Damien Chazelle",
+      "duration": "1h 47min",
+      "description": "Um jovem baterista busca a excelência sob a tutela de um professor implacável.",
+      "tags": [
+        "Drama",
+        "Música",
+        "Psicológico"
+      ]
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "type": "MOVIE",
+      "year": 2014,
+      "creator": "Wes Anderson",
+      "duration": "1h 39min",
+      "description": "Um concierge lendário e seu protegido se envolvem em uma aventura repleta de mistérios.",
+      "tags": [
+        "Comédia",
+        "Aventura",
+        "Crime"
+      ]
+    },
+    {
+      "title": "The Truman Show",
+      "type": "MOVIE",
+      "year": 1998,
+      "creator": "Peter Weir",
+      "duration": "1h 43min",
+      "description": "Um homem começa a suspeitar que toda a sua vida faz parte de um programa de televisão.",
+      "tags": [
+        "Drama",
+        "Comédia",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "Spirited Away",
+      "type": "MOVIE",
+      "year": 2001,
+      "creator": "Hayao Miyazaki",
+      "duration": "2h 5min",
+      "description": "Uma garota entra em um mundo mágico e precisa encontrar uma forma de salvar seus pais.",
+      "tags": [
+        "Fantasia",
+        "Anime",
+        "Aventura",
+        "Família"
+      ]
+    },
+    {
+      "title": "Knives Out",
+      "type": "MOVIE",
+      "year": 2019,
+      "creator": "Rian Johnson",
+      "duration": "2h 10min",
+      "description": "Um detetive investiga a morte misteriosa de um famoso escritor.",
+      "tags": [
+        "Mistério",
+        "Crime",
+        "Comédia"
+      ]
+    },
+    {
+      "title": "Inside Out",
+      "type": "MOVIE",
+      "year": 2015,
+      "creator": "Pete Docter",
+      "duration": "1h 35min",
+      "description": "As emoções de uma garota tentam guiá-la durante uma grande mudança em sua vida.",
+      "tags": [
+        "Animação",
+        "Família",
+        "Drama",
+        "Comédia"
+      ]
+    },
+    {
+      "title": "The Godfather",
+      "type": "MOVIE",
+      "year": 1972,
+      "creator": "Francis Ford Coppola",
+      "duration": "2h 55min",
+      "description": "O patriarca de uma poderosa família mafiosa passa o controle de seu império para seu filho relutante.",
+      "tags": [
+        "Crime",
+        "Drama",
+        "Clássico",
+        "Máfia"
+      ]
+    },
+    {
+      "title": "1917",
+      "type": "MOVIE",
+      "year": 2019,
+      "creator": "Sam Mendes",
+      "duration": "1h 59min",
+      "description": "Dois soldados britânicos atravessam território inimigo para entregar uma mensagem crucial durante a Primeira Guerra Mundial.",
+      "tags": [
+        "Guerra",
+        "Drama",
+        "Histórico"
+      ]
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "type": "MOVIE",
+      "year": 2018,
+      "creator": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+      "duration": "1h 57min",
+      "description": "Miles Morales descobre seus poderes e encontra versões alternativas do Homem-Aranha.",
+      "tags": [
+        "Animação",
+        "Super-Herói",
+        "Aventura",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "The Social Network",
+      "type": "MOVIE",
+      "year": 2010,
+      "creator": "David Fincher",
+      "duration": "2h",
+      "description": "A criação de uma rede social revolucionária desencadeia conflitos pessoais e jurídicos.",
+      "tags": [
+        "Drama",
+        "Tecnologia",
+        "Biografia"
+      ]
+    },
+    {
+      "title": "Ford v Ferrari",
+      "type": "MOVIE",
+      "year": 2019,
+      "creator": "James Mangold",
+      "duration": "2h 32min",
+      "description": "Engenheiros e pilotos tentam construir um carro capaz de derrotar a Ferrari em Le Mans.",
+      "tags": [
+        "Esporte",
+        "Drama",
+        "Histórico"
+      ]
+    },
+    {
+      "title": "The Iron Giant",
+      "type": "MOVIE",
+      "year": 1999,
+      "creator": "Brad Bird",
+      "duration": "1h 26min",
+      "description": "Um garoto faz amizade com um robô gigante vindo do espaço.",
+      "tags": [
+        "Animação",
+        "Sci-Fi",
+        "Família",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Castle in the Sky",
+      "type": "MOVIE",
+      "year": 1986,
+      "creator": "Hayao Miyazaki",
+      "duration": "2h 4min",
+      "description": "Duas crianças procuram uma lendária cidade flutuante repleta de segredos.",
+      "tags": [
+        "Anime",
+        "Fantasia",
+        "Aventura"
+      ]
+    }
+  ]
+}

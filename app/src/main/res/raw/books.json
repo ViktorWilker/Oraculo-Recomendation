@@ -1,0 +1,612 @@
+{
+  "media": [
+    {
+      "title": "Neuromancer",
+      "type": "BOOK",
+      "year": 1984,
+      "creator": "William Gibson",
+      "duration": "271 páginas",
+      "description": "O livro que definiu o gênero cyberpunk, sobre hackers e inteligência artificial.",
+      "tags": [
+        "Cyberpunk",
+        "Sci-Fi",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Duna",
+      "type": "BOOK",
+      "year": 1965,
+      "creator": "Frank Herbert",
+      "duration": "688 páginas",
+      "description": "Épico de ficção científica sobre política, religião e ecologia num planeta desértico.",
+      "tags": [
+        "Sci-Fi",
+        "Épico",
+        "Filosófico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "1984",
+      "type": "BOOK",
+      "year": 1949,
+      "creator": "George Orwell",
+      "duration": "328 páginas",
+      "description": "Distopia clássica sobre vigilância total e controle do pensamento.",
+      "tags": [
+        "Distopia",
+        "Filosófico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "O Guia do Mochileiro das Galáxias",
+      "type": "BOOK",
+      "year": 1979,
+      "creator": "Douglas Adams",
+      "duration": "193 páginas",
+      "description": "Comédia sci-fi sobre um humano arrastado para o espaço antes da demolição da Terra.",
+      "tags": [
+        "Comédia",
+        "Sci-Fi",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Fundação",
+      "type": "BOOK",
+      "year": 1951,
+      "creator": "Isaac Asimov",
+      "duration": "244 páginas",
+      "description": "Um matemático prevê o colapso do Império Galáctico e planeja salvar o conhecimento.",
+      "tags": [
+        "Sci-Fi",
+        "Épico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Admirável Mundo Novo",
+      "type": "BOOK",
+      "year": 1932,
+      "creator": "Aldous Huxley",
+      "duration": "311 páginas",
+      "description": "Uma sociedade futurista mantida estável por condicionamento e drogas de felicidade.",
+      "tags": [
+        "Distopia",
+        "Filosófico",
+        "Clássico",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "O Nome do Vento",
+      "type": "BOOK",
+      "year": 2007,
+      "creator": "Patrick Rothfuss",
+      "duration": "662 páginas",
+      "description": "A autobiografia de Kvothe, considerado o maior mago que já existiu.",
+      "tags": [
+        "Fantasy",
+        "Épico",
+        "Narrativa"
+      ]
+    },
+    {
+      "title": "Sapiens",
+      "type": "BOOK",
+      "year": 2011,
+      "creator": "Yuval Noah Harari",
+      "duration": "464 páginas",
+      "description": "Uma breve história da humanidade desde os primeiros humanos até o presente.",
+      "tags": [
+        "Não-ficção",
+        "Histórico",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "O Problema dos Três Corpos",
+      "type": "BOOK",
+      "year": 2008,
+      "creator": "Liu Cixin",
+      "duration": "434 páginas",
+      "description": "Cientistas chineses recebem um sinal alienígena durante a Revolução Cultural.",
+      "tags": [
+        "Sci-Fi",
+        "Filosófico",
+        "Épico"
+      ]
+    },
+    {
+      "title": "Flowers for Algernon",
+      "type": "BOOK",
+      "year": 1966,
+      "creator": "Daniel Keyes",
+      "duration": "311 páginas",
+      "description": "Um homem com deficiência intelectual torna-se um gênio após um experimento cirúrgico.",
+      "tags": [
+        "Sci-Fi",
+        "Drama",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "American Gods",
+      "type": "BOOK",
+      "year": 2001,
+      "creator": "Neil Gaiman",
+      "duration": "465 páginas",
+      "description": "Um ex-presidiário descobre que deuses antigos e modernos travam uma guerra invisível.",
+      "tags": [
+        "Fantasy",
+        "Narrativa",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "Solaris",
+      "type": "BOOK",
+      "year": 1961,
+      "creator": "Stanisław Lem",
+      "duration": "204 páginas",
+      "description": "Cientistas numa estação orbital tentam decifrar um oceano alienígena que manifesta memórias.",
+      "tags": [
+        "Sci-Fi",
+        "Filosófico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "A Mão Esquerda da Escuridão",
+      "type": "BOOK",
+      "year": 1969,
+      "creator": "Ursula K. Le Guin",
+      "duration": "352 páginas",
+      "description": "Um enviado humano visita um planeta cujos habitantes não têm gênero fixo.",
+      "tags": [
+        "Sci-Fi",
+        "Filosófico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Pride and Prejudice",
+      "type": "BOOK",
+      "year": 1813,
+      "creator": "Jane Austen",
+      "duration": "432 páginas",
+      "description": "Elizabeth Bennet enfrenta preconceitos e expectativas sociais ao conhecer o reservado Sr. Darcy.",
+      "tags": [
+        "Romance",
+        "Clássico",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Song of Achilles",
+      "type": "BOOK",
+      "year": 2011,
+      "creator": "Madeline Miller",
+      "duration": "416 páginas",
+      "description": "Uma releitura da Guerra de Troia focada na relação entre Aquiles e Pátroclo.",
+      "tags": [
+        "Romance",
+        "Mitologia",
+        "Drama",
+        "Fantasia"
+      ]
+    },
+    {
+      "title": "Jane Eyre",
+      "type": "BOOK",
+      "year": 1847,
+      "creator": "Charlotte Brontë",
+      "duration": "532 páginas",
+      "description": "Uma jovem governanta se apaixona pelo misterioso Sr. Rochester enquanto enfrenta segredos do passado.",
+      "tags": [
+        "Romance",
+        "Clássico",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Notebook",
+      "type": "BOOK",
+      "year": 1996,
+      "creator": "Nicholas Sparks",
+      "duration": "214 páginas",
+      "description": "Uma história de amor duradoura contada através das memórias de um casal separado pelas circunstâncias.",
+      "tags": [
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Me Before You",
+      "type": "BOOK",
+      "year": 2012,
+      "creator": "Jojo Moyes",
+      "duration": "369 páginas",
+      "description": "Uma cuidadora desenvolve uma relação transformadora com um homem tetraplégico.",
+      "tags": [
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Time Traveler's Wife",
+      "type": "BOOK",
+      "year": 2003,
+      "creator": "Audrey Niffenegger",
+      "duration": "546 páginas",
+      "description": "Um homem que viaja involuntariamente no tempo tenta construir uma vida ao lado da mulher que ama.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Sci-Fi",
+        "Fantasia"
+      ]
+    },
+    {
+      "title": "Normal People",
+      "type": "BOOK",
+      "year": 2018,
+      "creator": "Sally Rooney",
+      "duration": "273 páginas",
+      "description": "Dois jovens irlandeses atravessam anos de amizade, amor e amadurecimento.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Contemporâneo"
+      ]
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "type": "BOOK",
+      "year": 2012,
+      "creator": "John Green",
+      "duration": "313 páginas",
+      "description": "Dois adolescentes com câncer se apaixonam enquanto enfrentam a fragilidade da vida.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Juvenil"
+      ]
+    },
+    {
+      "title": "Anna Karenina",
+      "type": "BOOK",
+      "year": 1878,
+      "creator": "Leo Tolstoy",
+      "duration": "864 páginas",
+      "description": "Uma mulher da aristocracia russa desafia convenções sociais ao viver uma paixão proibida.",
+      "tags": [
+        "Romance",
+        "Clássico",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Rosie Project",
+      "type": "BOOK",
+      "year": 2013,
+      "creator": "Graeme Simsion",
+      "duration": "295 páginas",
+      "description": "Um professor de genética cria um projeto científico para encontrar a parceira ideal.",
+      "tags": [
+        "Romance",
+        "Comédia",
+        "Contemporâneo"
+      ]
+    },
+    {
+      "title": "It",
+      "type": "BOOK",
+      "year": 1986,
+      "creator": "Stephen King",
+      "duration": "1138 páginas",
+      "description": "Um grupo de amigos enfrenta uma entidade maligna que assume a forma de seus maiores medos.",
+      "tags": [
+        "Terror",
+        "Clássico",
+        "Sobrenatural"
+      ]
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "type": "BOOK",
+      "year": 1959,
+      "creator": "Shirley Jackson",
+      "duration": "246 páginas",
+      "description": "Pesquisadores do paranormal investigam uma mansão considerada uma das mais assombradas do mundo.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Clássico",
+        "Sobrenatural"
+      ]
+    },
+    {
+      "title": "House of Leaves",
+      "type": "BOOK",
+      "year": 2000,
+      "creator": "Mark Z. Danielewski",
+      "duration": "709 páginas",
+      "description": "Uma família descobre que sua casa é maior por dentro do que por fora.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Experimental",
+        "Mistério"
+      ]
+    },
+    {
+      "title": "Pet Sematary",
+      "type": "BOOK",
+      "year": 1983,
+      "creator": "Stephen King",
+      "duration": "374 páginas",
+      "description": "Uma família se muda para uma cidade onde um antigo cemitério guarda segredos terríveis.",
+      "tags": [
+        "Terror",
+        "Sobrenatural",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Call of Cthulhu",
+      "type": "BOOK",
+      "year": 1928,
+      "creator": "H. P. Lovecraft",
+      "duration": "43 páginas",
+      "description": "Um investigador reúne pistas sobre uma entidade cósmica adormecida além da compreensão humana.",
+      "tags": [
+        "Terror",
+        "Cósmico",
+        "Clássico",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "Bird Box",
+      "type": "BOOK",
+      "year": 2014,
+      "creator": "Josh Malerman",
+      "duration": "272 páginas",
+      "description": "Criaturas misteriosas levam pessoas à loucura ao serem observadas.",
+      "tags": [
+        "Terror",
+        "Pós-Apocalíptico",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "The Colour Out of Space",
+      "type": "BOOK",
+      "year": 1927,
+      "creator": "H. P. Lovecraft",
+      "duration": "64 páginas",
+      "description": "Um meteorito traz uma presença alienígena que corrompe tudo ao seu redor.",
+      "tags": [
+        "Terror",
+        "Cósmico",
+        "Sci-Fi",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "The Fisherman",
+      "type": "BOOK",
+      "year": 2016,
+      "creator": "John Langan",
+      "duration": "266 páginas",
+      "description": "Dois viúvos descobrem lendas sombrias ligadas a um lago cercado por forças antigas.",
+      "tags": [
+        "Terror",
+        "Cósmico",
+        "Drama",
+        "Sobrenatural"
+      ]
+    },
+    {
+      "title": "Mexican Gothic",
+      "type": "BOOK",
+      "year": 2020,
+      "creator": "Silvia Moreno-Garcia",
+      "duration": "320 páginas",
+      "description": "Uma jovem investiga acontecimentos estranhos em uma mansão isolada no interior do México.",
+      "tags": [
+        "Terror",
+        "Gótico",
+        "Mistério",
+        "Sobrenatural"
+      ]
+    },
+    {
+      "title": "The Terror",
+      "type": "BOOK",
+      "year": 2007,
+      "creator": "Dan Simmons",
+      "duration": "784 páginas",
+      "description": "Tripulantes de uma expedição ártica lutam para sobreviver a uma presença monstruosa no gelo.",
+      "tags": [
+        "Terror",
+        "Histórico",
+        "Sobrevivência",
+        "Mistério"
+      ]
+    },
+    {
+      "title": "The Martian",
+      "type": "BOOK",
+      "year": 2011,
+      "creator": "Andy Weir",
+      "duration": "387 páginas",
+      "description": "Um astronauta fica preso em Marte e usa ciência e engenhosidade para sobreviver.",
+      "tags": [
+        "Sci-Fi",
+        "Sobrevivência",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Mistborn: The Final Empire",
+      "type": "BOOK",
+      "year": 2006,
+      "creator": "Brandon Sanderson",
+      "duration": "541 páginas",
+      "description": "Uma jovem descobre poderes raros e participa de uma conspiração contra um império tirânico.",
+      "tags": [
+        "Fantasy",
+        "Épico",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "The Hobbit",
+      "type": "BOOK",
+      "year": 1937,
+      "creator": "J. R. R. Tolkien",
+      "duration": "310 páginas",
+      "description": "Bilbo Bolseiro embarca em uma aventura para recuperar um tesouro guardado por um dragão.",
+      "tags": [
+        "Fantasy",
+        "Clássico",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "type": "BOOK",
+      "year": 1844,
+      "creator": "Alexandre Dumas",
+      "duration": "1276 páginas",
+      "description": "Um homem injustamente preso planeja uma elaborada vingança contra aqueles que o traíram.",
+      "tags": [
+        "Aventura",
+        "Drama",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Educated",
+      "type": "BOOK",
+      "year": 2018,
+      "creator": "Tara Westover",
+      "duration": "334 páginas",
+      "description": "Memórias de uma mulher que cresceu isolada da sociedade e encontrou transformação através da educação.",
+      "tags": [
+        "Não-ficção",
+        "Biografia",
+        "Inspirador"
+      ]
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "type": "BOOK",
+      "year": 1880,
+      "creator": "Fyodor Dostoevsky",
+      "duration": "824 páginas",
+      "description": "Três irmãos enfrentam conflitos morais, espirituais e familiares após um assassinato.",
+      "tags": [
+        "Clássico",
+        "Filosófico",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Alchemist",
+      "type": "BOOK",
+      "year": 1988,
+      "creator": "Paulo Coelho",
+      "duration": "208 páginas",
+      "description": "Um pastor viaja pelo deserto em busca de um tesouro e de seu propósito de vida.",
+      "tags": [
+        "Filosófico",
+        "Aventura",
+        "Inspirador"
+      ]
+    },
+    {
+      "title": "The Road",
+      "type": "BOOK",
+      "year": 2006,
+      "creator": "Cormac McCarthy",
+      "duration": "287 páginas",
+      "description": "Pai e filho atravessam uma América devastada tentando sobreviver.",
+      "tags": [
+        "Distopia",
+        "Drama",
+        "Pós-Apocalíptico"
+      ]
+    },
+    {
+      "title": "The Lies of Locke Lamora",
+      "type": "BOOK",
+      "year": 2006,
+      "creator": "Scott Lynch",
+      "duration": "722 páginas",
+      "description": "Um mestre dos golpes planeja assaltos ousados em uma cidade inspirada na Veneza renascentista.",
+      "tags": [
+        "Fantasy",
+        "Crime",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "The Pillars of the Earth",
+      "type": "BOOK",
+      "year": 1989,
+      "creator": "Ken Follett",
+      "duration": "973 páginas",
+      "description": "A construção de uma catedral transforma a vida de diversas pessoas na Inglaterra medieval.",
+      "tags": [
+        "Histórico",
+        "Drama",
+        "Épico"
+      ]
+    },
+    {
+      "title": "The Selfish Gene",
+      "type": "BOOK",
+      "year": 1976,
+      "creator": "Richard Dawkins",
+      "duration": "360 páginas",
+      "description": "Uma obra influente sobre evolução vista pela perspectiva dos genes.",
+      "tags": [
+        "Não-ficção",
+        "Ciência",
+        "Biologia"
+      ]
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "type": "BOOK",
+      "year": 2011,
+      "creator": "Daniel Kahneman",
+      "duration": "499 páginas",
+      "description": "Uma análise dos processos mentais que influenciam decisões e julgamentos.",
+      "tags": [
+        "Não-ficção",
+        "Psicologia",
+        "Ciência"
+      ]
+    },
+    {
+      "title": "The Art of War",
+      "type": "BOOK",
+      "year": -500,
+      "creator": "Sun Tzu",
+      "duration": "273 páginas",
+      "description": "Tratado clássico sobre estratégia, liderança e tomada de decisões.",
+      "tags": [
+        "Clássico",
+        "Estratégia",
+        "Filosofia",
+        "Não-ficção"
+      ]
+    }
+  ]
+}

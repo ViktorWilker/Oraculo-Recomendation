@@ -1,0 +1,633 @@
+{
+  "media": [
+    {
+      "title": "Cyberpunk 2077",
+      "type": "GAME",
+      "year": 2020,
+      "creator": "CD Projekt Red",
+      "duration": "~60h",
+      "description": "RPG de mundo aberto em uma megalópole distópica do futuro.",
+      "tags": [
+        "RPG",
+        "Cyberpunk",
+        "Ação",
+        "Mundo Aberto"
+      ]
+    },
+    {
+      "title": "Elden Ring",
+      "type": "GAME",
+      "year": 2022,
+      "creator": "FromSoftware",
+      "duration": "~80h",
+      "description": "Action RPG de mundo aberto em um reino fragmentado por uma força ancestral.",
+      "tags": [
+        "Action RPG",
+        "Fantasy",
+        "Desafiador",
+        "Mundo Aberto"
+      ]
+    },
+    {
+      "title": "Hades",
+      "type": "GAME",
+      "year": 2020,
+      "creator": "Supergiant Games",
+      "duration": "~25h",
+      "description": "Rogue-like em que você tenta escapar do submundo grego repetidas vezes.",
+      "tags": [
+        "Rogue-like",
+        "Ação",
+        "Narrativa",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Disco Elysium",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "ZA/UM",
+      "duration": "~30h",
+      "description": "RPG de investigação com narrativa rica e um detetive sem memória.",
+      "tags": [
+        "RPG",
+        "Narrativa",
+        "Filosófico",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Hollow Knight",
+      "type": "GAME",
+      "year": 2017,
+      "creator": "Team Cherry",
+      "duration": "~40h",
+      "description": "Metroidvania sombrio em um reino de insetos subterrâneo.",
+      "tags": [
+        "Metroidvania",
+        "Indie",
+        "Desafiador",
+        "Plataforma"
+      ]
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "type": "GAME",
+      "year": 2018,
+      "creator": "Rockstar Games",
+      "duration": "~60h",
+      "description": "A saga de um fora-da-lei no crepúsculo do Velho Oeste americano.",
+      "tags": [
+        "Aventura",
+        "Mundo Aberto",
+        "Drama",
+        "Histórico"
+      ]
+    },
+    {
+      "title": "The Witcher 3",
+      "type": "GAME",
+      "year": 2015,
+      "creator": "CD Projekt Red",
+      "duration": "~100h",
+      "description": "Um caçador de monstros busca sua filha adotiva enquanto uma guerra devasta o continente.",
+      "tags": [
+        "RPG",
+        "Fantasy",
+        "Mundo Aberto",
+        "Narrativa"
+      ]
+    },
+    {
+      "title": "Death Stranding",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "Kojima Productions",
+      "duration": "~40h",
+      "description": "Um carregador atravessa uma América devastada para reconectar a civilização.",
+      "tags": [
+        "Ação",
+        "Filosófico",
+        "Sci-Fi",
+        "Narrativa"
+      ]
+    },
+    {
+      "title": "Portal 2",
+      "type": "GAME",
+      "year": 2011,
+      "creator": "Valve",
+      "duration": "~10h",
+      "description": "Quebra-cabeças com portais em uma instalação de pesquisa com uma IA sarcástica.",
+      "tags": [
+        "Puzzle",
+        "Comédia",
+        "Sci-Fi",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Sekiro",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "FromSoftware",
+      "duration": "~30h",
+      "description": "Um shinobi busca vingança e a redenção do seu jovem senhor no Japão feudal.",
+      "tags": [
+        "Ação",
+        "Desafiador",
+        "Histórico",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Outer Wilds",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "Mobius Digital",
+      "duration": "~15h",
+      "description": "Um explorador espacial prende em um loop de 22 minutos tentando desvendar um mistério cósmico.",
+      "tags": [
+        "Aventura",
+        "Sci-Fi",
+        "Filosófico",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Celeste",
+      "type": "GAME",
+      "year": 2018,
+      "creator": "Maddy Makes Games",
+      "duration": "~10h",
+      "description": "Uma jovem escala uma montanha enquanto enfrenta seus próprios demônios internos.",
+      "tags": [
+        "Plataforma",
+        "Indie",
+        "Desafiador",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Life is Strange",
+      "type": "GAME",
+      "year": 2015,
+      "creator": "Dontnod Entertainment",
+      "duration": "~15h",
+      "description": "Uma estudante descobre o poder de voltar no tempo enquanto tenta salvar sua melhor amiga.",
+      "tags": [
+        "Narrativa",
+        "Drama",
+        "Romance",
+        "Mistério"
+      ]
+    },
+    {
+      "title": "Persona 5 Royal",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "P-Studio",
+      "duration": "~100h",
+      "description": "Estudantes levam vidas duplas como ladrões fantasma enquanto constroem relacionamentos e enfrentam corrupção.",
+      "tags": [
+        "RPG",
+        "Romance",
+        "Anime",
+        "Narrativa"
+      ]
+    },
+    {
+      "title": "Catherine: Full Body",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "Atlus",
+      "duration": "~20h",
+      "description": "Um homem dividido entre relacionamentos enfrenta pesadelos misteriosos que ameaçam sua vida.",
+      "tags": [
+        "Romance",
+        "Puzzle",
+        "Drama",
+        "Psicológico"
+      ]
+    },
+    {
+      "title": "Florence",
+      "type": "GAME",
+      "year": 2018,
+      "creator": "Mountains",
+      "duration": "~2h",
+      "description": "Uma experiência narrativa interativa sobre amor, crescimento e autodescoberta.",
+      "tags": [
+        "Romance",
+        "Narrativa",
+        "Indie",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Mass Effect 2",
+      "type": "GAME",
+      "year": 2010,
+      "creator": "BioWare",
+      "duration": "~35h",
+      "description": "O comandante Shepard reúne uma equipe improvável para enfrentar uma ameaça galáctica.",
+      "tags": [
+        "RPG",
+        "Romance",
+        "Sci-Fi",
+        "Narrativa"
+      ]
+    },
+    {
+      "title": "Dragon Age: Origins",
+      "type": "GAME",
+      "year": 2009,
+      "creator": "BioWare",
+      "duration": "~50h",
+      "description": "Um herói deve unir reinos em guerra enquanto constrói alianças e relacionamentos.",
+      "tags": [
+        "RPG",
+        "Fantasy",
+        "Romance",
+        "Narrativa"
+      ]
+    },
+    {
+      "title": "Dream Daddy",
+      "type": "GAME",
+      "year": 2017,
+      "creator": "Game Grumps",
+      "duration": "~8h",
+      "description": "Um pai solteiro se muda para um novo bairro e conhece diversos pretendentes.",
+      "tags": [
+        "Romance",
+        "Visual Novel",
+        "Comédia",
+        "Indie"
+      ]
+    },
+    {
+      "title": "To the Moon",
+      "type": "GAME",
+      "year": 2011,
+      "creator": "Freebird Games",
+      "duration": "~4h",
+      "description": "Dois cientistas viajam pelas memórias de um homem moribundo para realizar seu último desejo.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Narrativa",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Haven",
+      "type": "GAME",
+      "year": 2020,
+      "creator": "The Game Bakers",
+      "duration": "~12h",
+      "description": "Um casal foge para um planeta desconhecido tentando permanecer unido contra todas as adversidades.",
+      "tags": [
+        "Romance",
+        "Sci-Fi",
+        "Aventura",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Silent Hill 2",
+      "type": "GAME",
+      "year": 2001,
+      "creator": "Konami",
+      "duration": "~10h",
+      "description": "Um homem recebe uma carta de sua falecida esposa e segue para a misteriosa cidade de Silent Hill.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Narrativa",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Resident Evil 2",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "Capcom",
+      "duration": "~10h",
+      "description": "Dois sobreviventes tentam escapar de uma cidade infestada por zumbis.",
+      "tags": [
+        "Terror",
+        "Sobrevivência",
+        "Ação",
+        "Zumbis"
+      ]
+    },
+    {
+      "title": "Dead Space",
+      "type": "GAME",
+      "year": 2008,
+      "creator": "EA Redwood Shores",
+      "duration": "~12h",
+      "description": "Um engenheiro explora uma nave infestada por criaturas grotescas de origem alienígena.",
+      "tags": [
+        "Terror",
+        "Sci-Fi",
+        "Sobrevivência",
+        "Espacial"
+      ]
+    },
+    {
+      "title": "Amnesia: The Dark Descent",
+      "type": "GAME",
+      "year": 2010,
+      "creator": "Frictional Games",
+      "duration": "~8h",
+      "description": "Um homem desperta sem memória em um castelo sombrio e precisa descobrir quem é.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Sobrevivência",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Alien: Isolation",
+      "type": "GAME",
+      "year": 2014,
+      "creator": "Creative Assembly",
+      "duration": "~18h",
+      "description": "Amanda Ripley tenta sobreviver enquanto é caçada por um xenomorfo em uma estação espacial.",
+      "tags": [
+        "Terror",
+        "Sci-Fi",
+        "Sobrevivência",
+        "Espacial"
+      ]
+    },
+    {
+      "title": "Outlast",
+      "type": "GAME",
+      "year": 2013,
+      "creator": "Red Barrels",
+      "duration": "~6h",
+      "description": "Um jornalista investiga um manicômio abandonado e descobre horrores inimagináveis.",
+      "tags": [
+        "Terror",
+        "Sobrevivência",
+        "Psicológico",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Fatal Frame II: Crimson Butterfly",
+      "type": "GAME",
+      "year": 2003,
+      "creator": "Tecmo",
+      "duration": "~12h",
+      "description": "Duas irmãs ficam presas em uma vila assombrada e enfrentam espíritos usando uma câmera especial.",
+      "tags": [
+        "Terror",
+        "Sobrenatural",
+        "Psicológico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Darkwood",
+      "type": "GAME",
+      "year": 2017,
+      "creator": "Acid Wizard Studio",
+      "duration": "~20h",
+      "description": "Um sobrevivente explora uma floresta hostil onde algo terrível espreita durante a noite.",
+      "tags": [
+        "Terror",
+        "Sobrevivência",
+        "Indie",
+        "Psicológico"
+      ]
+    },
+    {
+      "title": "Signalis",
+      "type": "GAME",
+      "year": 2022,
+      "creator": "rose-engine",
+      "duration": "~10h",
+      "description": "Uma androide procura sua parceira desaparecida em uma instalação decadente repleta de horrores.",
+      "tags": [
+        "Terror",
+        "Sci-Fi",
+        "Psicológico",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Bloodborne",
+      "type": "GAME",
+      "year": 2015,
+      "creator": "FromSoftware",
+      "duration": "~35h",
+      "description": "Um caçador enfrenta monstros e entidades cósmicas em uma cidade consumida pela loucura.",
+      "tags": [
+        "Terror",
+        "Cósmico",
+        "Action RPG",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Stardew Valley",
+      "type": "GAME",
+      "year": 2016,
+      "creator": "ConcernedApe",
+      "duration": "~80h",
+      "description": "Um simulador de fazenda focado em comunidade, exploração e construção de relacionamentos.",
+      "tags": [
+        "Simulação",
+        "Indie",
+        "Relaxante",
+        "RPG"
+      ]
+    },
+    {
+      "title": "Minecraft",
+      "type": "GAME",
+      "year": 2011,
+      "creator": "Mojang Studios",
+      "duration": "Ilimitado",
+      "description": "Um sandbox onde jogadores exploram, constroem e sobrevivem em mundos gerados proceduralmente.",
+      "tags": [
+        "Sandbox",
+        "Sobrevivência",
+        "Criatividade",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Factorio",
+      "type": "GAME",
+      "year": 2020,
+      "creator": "Wube Software",
+      "duration": "~60h",
+      "description": "Construa e automatize fábricas gigantescas em um planeta alienígena.",
+      "tags": [
+        "Estratégia",
+        "Automação",
+        "Construção",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Slay the Spire",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "Mega Crit",
+      "duration": "~20h",
+      "description": "Mistura de roguelike e construção de baralhos em uma torre repleta de desafios.",
+      "tags": [
+        "Roguelike",
+        "Cartas",
+        "Estratégia",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Civilization VI",
+      "type": "GAME",
+      "year": 2016,
+      "creator": "Firaxis Games",
+      "duration": "~50h",
+      "description": "Lidere uma civilização desde a antiguidade até a era espacial.",
+      "tags": [
+        "Estratégia",
+        "Histórico",
+        "Turnos",
+        "Simulação"
+      ]
+    },
+    {
+      "title": "Firewatch",
+      "type": "GAME",
+      "year": 2016,
+      "creator": "Campo Santo",
+      "duration": "~5h",
+      "description": "Um vigia florestal investiga eventos estranhos enquanto cria uma conexão por rádio com sua supervisora.",
+      "tags": [
+        "Narrativa",
+        "Mistério",
+        "Indie",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Journey",
+      "type": "GAME",
+      "year": 2012,
+      "creator": "thatgamecompany",
+      "duration": "~3h",
+      "description": "Um viajante cruza um vasto deserto em direção a uma montanha distante.",
+      "tags": [
+        "Aventura",
+        "Indie",
+        "Exploração",
+        "Artístico"
+      ]
+    },
+    {
+      "title": "Terraria",
+      "type": "GAME",
+      "year": 2011,
+      "creator": "Re-Logic",
+      "duration": "~100h",
+      "description": "Explore cavernas, construa bases e enfrente chefes em um vasto mundo 2D.",
+      "tags": [
+        "Sandbox",
+        "Sobrevivência",
+        "Aventura",
+        "Indie"
+      ]
+    },
+    {
+      "title": "XCOM 2",
+      "type": "GAME",
+      "year": 2016,
+      "creator": "Firaxis Games",
+      "duration": "~40h",
+      "description": "A humanidade luta contra uma ocupação alienígena através de combates táticos por turnos.",
+      "tags": [
+        "Estratégia",
+        "Sci-Fi",
+        "Turnos",
+        "Tático"
+      ]
+    },
+    {
+      "title": "Ori and the Blind Forest",
+      "type": "GAME",
+      "year": 2015,
+      "creator": "Moon Studios",
+      "duration": "~10h",
+      "description": "Um espírito guardião embarca em uma jornada para salvar uma floresta em decadência.",
+      "tags": [
+        "Metroidvania",
+        "Plataforma",
+        "Aventura",
+        "Drama"
+      ]
+    },
+    {
+      "title": "FTL: Faster Than Light",
+      "type": "GAME",
+      "year": 2012,
+      "creator": "Subset Games",
+      "duration": "~15h",
+      "description": "Comande uma nave espacial enquanto tenta entregar informações vitais através da galáxia.",
+      "tags": [
+        "Roguelike",
+        "Estratégia",
+        "Sci-Fi",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Rocket League",
+      "type": "GAME",
+      "year": 2015,
+      "creator": "Psyonix",
+      "duration": "Ilimitado",
+      "description": "Carros movidos a foguetes competem em partidas de futebol de alta velocidade.",
+      "tags": [
+        "Esporte",
+        "Competitivo",
+        "Multiplayer"
+      ]
+    },
+    {
+      "title": "Pentiment",
+      "type": "GAME",
+      "year": 2022,
+      "creator": "Obsidian Entertainment",
+      "duration": "~20h",
+      "description": "Um artista investiga uma série de assassinatos em uma comunidade da Baviera do século XVI.",
+      "tags": [
+        "Narrativa",
+        "Mistério",
+        "Histórico",
+        "RPG"
+      ]
+    },
+    {
+      "title": "A Short Hike",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "Adam Robinson-Yu",
+      "duration": "~3h",
+      "description": "Uma jovem pássaro explora um parque nacional em busca de sinal para seu celular.",
+      "tags": [
+        "Indie",
+        "Exploração",
+        "Relaxante",
+        "Aventura"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1884 @@
+{
+  "media": [
+    {
+      "title": "Blade Runner 2049",
+      "type": "MOVIE",
+      "year": 2017,
+      "creator": "Denis Villeneuve",
+      "duration": "2h 44min",
+      "description": "Um jovem policial descobre um segredo que pode destruir o que resta da sociedade.",
+      "tags": [
+        "Sci-Fi",
+        "Neo-Noir",
+        "Cyberpunk",
+        "Distopia"
+      ]
+    },
+    {
+      "title": "Dune: Part Two",
+      "type": "MOVIE",
+      "year": 2024,
+      "creator": "Denis Villeneuve",
+      "duration": "2h 46min",
+      "description": "A continuação épica da saga de Paul Atreides no deserto de Arrakis.",
+      "tags": [
+        "Sci-Fi",
+        "Épico",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Arrival",
+      "type": "MOVIE",
+      "year": 2016,
+      "creator": "Denis Villeneuve",
+      "duration": "1h 56min",
+      "description": "Uma linguista é recrutada para comunicar com extraterrestres que chegam à Terra.",
+      "tags": [
+        "Sci-Fi",
+        "Drama",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "The Matrix",
+      "type": "MOVIE",
+      "year": 1999,
+      "creator": "Wachowski",
+      "duration": "2h 16min",
+      "description": "Um hacker descobre que o mundo é uma simulação criada por máquinas.",
+      "tags": [
+        "Sci-Fi",
+        "Ação",
+        "Cyberpunk",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "Interstellar",
+      "type": "MOVIE",
+      "year": 2014,
+      "creator": "Christopher Nolan",
+      "duration": "2h 49min",
+      "description": "Astronautas viajam por um buraco de minhoca em busca de um novo lar para a humanidade.",
+      "tags": [
+        "Sci-Fi",
+        "Drama",
+        "Épico"
+      ]
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "type": "MOVIE",
+      "year": 1968,
+      "creator": "Stanley Kubrick",
+      "duration": "2h 29min",
+      "description": "Uma missão espacial revela uma inteligência além da compreensão humana.",
+      "tags": [
+        "Sci-Fi",
+        "Filosófico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Annihilation",
+      "type": "MOVIE",
+      "year": 2018,
+      "creator": "Alex Garland",
+      "duration": "1h 55min",
+      "description": "Uma bióloga entra em uma zona misteriosa onde as leis da natureza não se aplicam.",
+      "tags": [
+        "Sci-Fi",
+        "Terror",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "Parasite",
+      "type": "MOVIE",
+      "year": 2019,
+      "creator": "Bong Joon-ho",
+      "duration": "2h 12min",
+      "description": "Uma família pobre infiltra-se na vida de uma família rica com consequências imprevisíveis.",
+      "tags": [
+        "Drama",
+        "Thriller",
+        "Social"
+      ]
+    },
+    {
+      "title": "The Lighthouse",
+      "type": "MOVIE",
+      "year": 2019,
+      "creator": "Robert Eggers",
+      "duration": "1h 49min",
+      "description": "Dois faroleiros ficam presos em uma ilha remota e começam a enlouquecer.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "type": "MOVIE",
+      "year": 2022,
+      "creator": "Daniels",
+      "duration": "2h 19min",
+      "description": "Uma lavanderia descobre que pode acessar universos paralelos para salvar a existência.",
+      "tags": [
+        "Sci-Fi",
+        "Comédia",
+        "Drama",
+        "Multiverso"
+      ]
+    },
+    {
+      "title": "Oppenheimer",
+      "type": "MOVIE",
+      "year": 2023,
+      "creator": "Christopher Nolan",
+      "duration": "3h",
+      "description": "A história do físico que liderou o desenvolvimento da bomba atômica.",
+      "tags": [
+        "Drama",
+        "Histórico",
+        "Épico"
+      ]
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "type": "MOVIE",
+      "year": 2015,
+      "creator": "George Miller",
+      "duration": "2h",
+      "description": "Em um mundo pós-apocalíptico, uma guerreira rebela-se contra um tirano.",
+      "tags": [
+        "Ação",
+        "Distopia",
+        "Épico"
+      ]
+    },
+    {
+      "title": "Her",
+      "type": "MOVIE",
+      "year": 2013,
+      "creator": "Spike Jonze",
+      "duration": "2h 6min",
+      "description": "Um homem solitário desenvolve uma relação com um sistema operacional com inteligência artificial.",
+      "tags": [
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "The Witch",
+      "type": "MOVIE",
+      "year": 2015,
+      "creator": "Robert Eggers",
+      "duration": "1h 32min",
+      "description": "Uma família puritana no século XVII enfrenta forças sobrenaturais na Nova Inglaterra.",
+      "tags": [
+        "Terror",
+        "Histórico",
+        "Psicológico"
+      ]
+    },
+    {
+      "title": "Prisoners",
+      "type": "MOVIE",
+      "year": 2013,
+      "creator": "Denis Villeneuve",
+      "duration": "2h 33min",
+      "description": "Um pai desesperado toma medidas extremas quando sua filha desaparece.",
+      "tags": [
+        "Thriller",
+        "Drama",
+        "Policial"
+      ]
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "type": "GAME",
+      "year": 2020,
+      "creator": "CD Projekt Red",
+      "duration": "~60h",
+      "description": "RPG de mundo aberto em uma megalópole distópica do futuro.",
+      "tags": [
+        "RPG",
+        "Cyberpunk",
+        "Ação",
+        "Mundo Aberto"
+      ]
+    },
+    {
+      "title": "Elden Ring",
+      "type": "GAME",
+      "year": 2022,
+      "creator": "FromSoftware",
+      "duration": "~80h",
+      "description": "Action RPG de mundo aberto em um reino fragmentado por uma força ancestral.",
+      "tags": [
+        "Action RPG",
+        "Fantasy",
+        "Desafiador",
+        "Mundo Aberto"
+      ]
+    },
+    {
+      "title": "Hades",
+      "type": "GAME",
+      "year": 2020,
+      "creator": "Supergiant Games",
+      "duration": "~25h",
+      "description": "Rogue-like em que você tenta escapar do submundo grego repetidas vezes.",
+      "tags": [
+        "Rogue-like",
+        "Ação",
+        "Narrativa",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Disco Elysium",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "ZA/UM",
+      "duration": "~30h",
+      "description": "RPG de investigação com narrativa rica e um detetive sem memória.",
+      "tags": [
+        "RPG",
+        "Narrativa",
+        "Filosófico",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Hollow Knight",
+      "type": "GAME",
+      "year": 2017,
+      "creator": "Team Cherry",
+      "duration": "~40h",
+      "description": "Metroidvania sombrio em um reino de insetos subterrâneo.",
+      "tags": [
+        "Metroidvania",
+        "Indie",
+        "Desafiador",
+        "Plataforma"
+      ]
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "type": "GAME",
+      "year": 2018,
+      "creator": "Rockstar Games",
+      "duration": "~60h",
+      "description": "A saga de um fora-da-lei no crepúsculo do Velho Oeste americano.",
+      "tags": [
+        "Aventura",
+        "Mundo Aberto",
+        "Drama",
+        "Histórico"
+      ]
+    },
+    {
+      "title": "The Witcher 3",
+      "type": "GAME",
+      "year": 2015,
+      "creator": "CD Projekt Red",
+      "duration": "~100h",
+      "description": "Um caçador de monstros busca sua filha adotiva enquanto uma guerra devasta o continente.",
+      "tags": [
+        "RPG",
+        "Fantasy",
+        "Mundo Aberto",
+        "Narrativa"
+      ]
+    },
+    {
+      "title": "Death Stranding",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "Kojima Productions",
+      "duration": "~40h",
+      "description": "Um carregador atravessa uma América devastada para reconectar a civilização.",
+      "tags": [
+        "Ação",
+        "Filosófico",
+        "Sci-Fi",
+        "Narrativa"
+      ]
+    },
+    {
+      "title": "Portal 2",
+      "type": "GAME",
+      "year": 2011,
+      "creator": "Valve",
+      "duration": "~10h",
+      "description": "Quebra-cabeças com portais em uma instalação de pesquisa com uma IA sarcástica.",
+      "tags": [
+        "Puzzle",
+        "Comédia",
+        "Sci-Fi",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Sekiro",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "FromSoftware",
+      "duration": "~30h",
+      "description": "Um shinobi busca vingança e a redenção do seu jovem senhor no Japão feudal.",
+      "tags": [
+        "Ação",
+        "Desafiador",
+        "Histórico",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Outer Wilds",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "Mobius Digital",
+      "duration": "~15h",
+      "description": "Um explorador espacial prende em um loop de 22 minutos tentando desvendar um mistério cósmico.",
+      "tags": [
+        "Aventura",
+        "Sci-Fi",
+        "Filosófico",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Celeste",
+      "type": "GAME",
+      "year": 2018,
+      "creator": "Maddy Makes Games",
+      "duration": "~10h",
+      "description": "Uma jovem escala uma montanha enquanto enfrenta seus próprios demônios internos.",
+      "tags": [
+        "Plataforma",
+        "Indie",
+        "Desafiador",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Neuromancer",
+      "type": "BOOK",
+      "year": 1984,
+      "creator": "William Gibson",
+      "duration": "271 páginas",
+      "description": "O livro que definiu o gênero cyberpunk, sobre hackers e inteligência artificial.",
+      "tags": [
+        "Cyberpunk",
+        "Sci-Fi",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Duna",
+      "type": "BOOK",
+      "year": 1965,
+      "creator": "Frank Herbert",
+      "duration": "688 páginas",
+      "description": "Épico de ficção científica sobre política, religião e ecologia num planeta desértico.",
+      "tags": [
+        "Sci-Fi",
+        "Épico",
+        "Filosófico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "1984",
+      "type": "BOOK",
+      "year": 1949,
+      "creator": "George Orwell",
+      "duration": "328 páginas",
+      "description": "Distopia clássica sobre vigilância total e controle do pensamento.",
+      "tags": [
+        "Distopia",
+        "Filosófico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "O Guia do Mochileiro das Galáxias",
+      "type": "BOOK",
+      "year": 1979,
+      "creator": "Douglas Adams",
+      "duration": "193 páginas",
+      "description": "Comédia sci-fi sobre um humano arrastado para o espaço antes da demolição da Terra.",
+      "tags": [
+        "Comédia",
+        "Sci-Fi",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Fundação",
+      "type": "BOOK",
+      "year": 1951,
+      "creator": "Isaac Asimov",
+      "duration": "244 páginas",
+      "description": "Um matemático prevê o colapso do Império Galáctico e planeja salvar o conhecimento.",
+      "tags": [
+        "Sci-Fi",
+        "Épico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Admirável Mundo Novo",
+      "type": "BOOK",
+      "year": 1932,
+      "creator": "Aldous Huxley",
+      "duration": "311 páginas",
+      "description": "Uma sociedade futurista mantida estável por condicionamento e drogas de felicidade.",
+      "tags": [
+        "Distopia",
+        "Filosófico",
+        "Clássico",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "O Nome do Vento",
+      "type": "BOOK",
+      "year": 2007,
+      "creator": "Patrick Rothfuss",
+      "duration": "662 páginas",
+      "description": "A autobiografia de Kvothe, considerado o maior mago que já existiu.",
+      "tags": [
+        "Fantasy",
+        "Épico",
+        "Narrativa"
+      ]
+    },
+    {
+      "title": "Sapiens",
+      "type": "BOOK",
+      "year": 2011,
+      "creator": "Yuval Noah Harari",
+      "duration": "464 páginas",
+      "description": "Uma breve história da humanidade desde os primeiros humanos até o presente.",
+      "tags": [
+        "Não-ficção",
+        "Histórico",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "O Problema dos Três Corpos",
+      "type": "BOOK",
+      "year": 2008,
+      "creator": "Liu Cixin",
+      "duration": "434 páginas",
+      "description": "Cientistas chineses recebem um sinal alienígena durante a Revolução Cultural.",
+      "tags": [
+        "Sci-Fi",
+        "Filosófico",
+        "Épico"
+      ]
+    },
+    {
+      "title": "Flowers for Algernon",
+      "type": "BOOK",
+      "year": 1966,
+      "creator": "Daniel Keyes",
+      "duration": "311 páginas",
+      "description": "Um homem com deficiência intelectual torna-se um gênio após um experimento cirúrgico.",
+      "tags": [
+        "Sci-Fi",
+        "Drama",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "American Gods",
+      "type": "BOOK",
+      "year": 2001,
+      "creator": "Neil Gaiman",
+      "duration": "465 páginas",
+      "description": "Um ex-presidiário descobre que deuses antigos e modernos travam uma guerra invisível.",
+      "tags": [
+        "Fantasy",
+        "Narrativa",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "Solaris",
+      "type": "BOOK",
+      "year": 1961,
+      "creator": "Stanisław Lem",
+      "duration": "204 páginas",
+      "description": "Cientistas numa estação orbital tentam decifrar um oceano alienígena que manifesta memórias.",
+      "tags": [
+        "Sci-Fi",
+        "Filosófico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "A Mão Esquerda da Escuridão",
+      "type": "BOOK",
+      "year": 1969,
+      "creator": "Ursula K. Le Guin",
+      "duration": "352 páginas",
+      "description": "Um enviado humano visita um planeta cujos habitantes não têm gênero fixo.",
+      "tags": [
+        "Sci-Fi",
+        "Filosófico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Pride and Prejudice",
+      "type": "BOOK",
+      "year": 1813,
+      "creator": "Jane Austen",
+      "duration": "432 páginas",
+      "description": "Elizabeth Bennet enfrenta preconceitos e expectativas sociais ao conhecer o reservado Sr. Darcy.",
+      "tags": [
+        "Romance",
+        "Clássico",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Song of Achilles",
+      "type": "BOOK",
+      "year": 2011,
+      "creator": "Madeline Miller",
+      "duration": "416 páginas",
+      "description": "Uma releitura da Guerra de Troia focada na relação entre Aquiles e Pátroclo.",
+      "tags": [
+        "Romance",
+        "Mitologia",
+        "Drama",
+        "Fantasia"
+      ]
+    },
+    {
+      "title": "Jane Eyre",
+      "type": "BOOK",
+      "year": 1847,
+      "creator": "Charlotte Brontë",
+      "duration": "532 páginas",
+      "description": "Uma jovem governanta se apaixona pelo misterioso Sr. Rochester enquanto enfrenta segredos do passado.",
+      "tags": [
+        "Romance",
+        "Clássico",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Notebook",
+      "type": "BOOK",
+      "year": 1996,
+      "creator": "Nicholas Sparks",
+      "duration": "214 páginas",
+      "description": "Uma história de amor duradoura contada através das memórias de um casal separado pelas circunstâncias.",
+      "tags": [
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Me Before You",
+      "type": "BOOK",
+      "year": 2012,
+      "creator": "Jojo Moyes",
+      "duration": "369 páginas",
+      "description": "Uma cuidadora desenvolve uma relação transformadora com um homem tetraplégico.",
+      "tags": [
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Before Sunrise",
+      "type": "MOVIE",
+      "year": 1995,
+      "creator": "Richard Linklater",
+      "duration": "1h 41min",
+      "description": "Dois jovens se conhecem em um trem e passam uma noite inesquecível caminhando por Viena.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Before Sunset",
+      "type": "MOVIE",
+      "year": 2004,
+      "creator": "Richard Linklater",
+      "duration": "1h 20min",
+      "description": "Nove anos após seu primeiro encontro, Jesse e Céline se reencontram em Paris.",
+      "tags": [
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "type": "MOVIE",
+      "year": 2004,
+      "creator": "Michel Gondry",
+      "duration": "1h 48min",
+      "description": "Após o fim de um relacionamento, um homem decide apagar as memórias de sua ex-namorada.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Sci-Fi",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "La La Land",
+      "type": "MOVIE",
+      "year": 2016,
+      "creator": "Damien Chazelle",
+      "duration": "2h 8min",
+      "description": "Uma atriz e um músico tentam conciliar seus sonhos profissionais com seu relacionamento.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Musical"
+      ]
+    },
+    {
+      "title": "Your Name",
+      "type": "MOVIE",
+      "year": 2016,
+      "creator": "Makoto Shinkai",
+      "duration": "1h 46min",
+      "description": "Dois adolescentes misteriosamente passam a trocar de corpos e desenvolvem uma conexão profunda.",
+      "tags": [
+        "Romance",
+        "Fantasia",
+        "Drama",
+        "Anime"
+      ]
+    },
+    {
+      "title": "About Time",
+      "type": "MOVIE",
+      "year": 2013,
+      "creator": "Richard Curtis",
+      "duration": "2h 3min",
+      "description": "Um jovem descobre que pode viajar no tempo e tenta melhorar sua vida amorosa.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Comédia",
+        "Fantasia"
+      ]
+    },
+    {
+      "title": "Life is Strange",
+      "type": "GAME",
+      "year": 2015,
+      "creator": "Dontnod Entertainment",
+      "duration": "~15h",
+      "description": "Uma estudante descobre o poder de voltar no tempo enquanto tenta salvar sua melhor amiga.",
+      "tags": [
+        "Narrativa",
+        "Drama",
+        "Romance",
+        "Mistério"
+      ]
+    },
+    {
+      "title": "Persona 5 Royal",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "P-Studio",
+      "duration": "~100h",
+      "description": "Estudantes levam vidas duplas como ladrões fantasma enquanto constroem relacionamentos e enfrentam corrupção.",
+      "tags": [
+        "RPG",
+        "Romance",
+        "Anime",
+        "Narrativa"
+      ]
+    },
+    {
+      "title": "Catherine: Full Body",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "Atlus",
+      "duration": "~20h",
+      "description": "Um homem dividido entre relacionamentos enfrenta pesadelos misteriosos que ameaçam sua vida.",
+      "tags": [
+        "Romance",
+        "Puzzle",
+        "Drama",
+        "Psicológico"
+      ]
+    },
+    {
+      "title": "Florence",
+      "type": "GAME",
+      "year": 2018,
+      "creator": "Mountains",
+      "duration": "~2h",
+      "description": "Uma experiência narrativa interativa sobre amor, crescimento e autodescoberta.",
+      "tags": [
+        "Romance",
+        "Narrativa",
+        "Indie",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Time Traveler's Wife",
+      "type": "BOOK",
+      "year": 2003,
+      "creator": "Audrey Niffenegger",
+      "duration": "546 páginas",
+      "description": "Um homem que viaja involuntariamente no tempo tenta construir uma vida ao lado da mulher que ama.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Sci-Fi",
+        "Fantasia"
+      ]
+    },
+    {
+      "title": "Normal People",
+      "type": "BOOK",
+      "year": 2018,
+      "creator": "Sally Rooney",
+      "duration": "273 páginas",
+      "description": "Dois jovens irlandeses atravessam anos de amizade, amor e amadurecimento.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Contemporâneo"
+      ]
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "type": "BOOK",
+      "year": 2012,
+      "creator": "John Green",
+      "duration": "313 páginas",
+      "description": "Dois adolescentes com câncer se apaixonam enquanto enfrentam a fragilidade da vida.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Juvenil"
+      ]
+    },
+    {
+      "title": "Anna Karenina",
+      "type": "BOOK",
+      "year": 1878,
+      "creator": "Leo Tolstoy",
+      "duration": "864 páginas",
+      "description": "Uma mulher da aristocracia russa desafia convenções sociais ao viver uma paixão proibida.",
+      "tags": [
+        "Romance",
+        "Clássico",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Rosie Project",
+      "type": "BOOK",
+      "year": 2013,
+      "creator": "Graeme Simsion",
+      "duration": "295 páginas",
+      "description": "Um professor de genética cria um projeto científico para encontrar a parceira ideal.",
+      "tags": [
+        "Romance",
+        "Comédia",
+        "Contemporâneo"
+      ]
+    },
+    {
+      "title": "Notting Hill",
+      "type": "MOVIE",
+      "year": 1999,
+      "creator": "Roger Michell",
+      "duration": "2h 4min",
+      "description": "Um livreiro londrino se apaixona por uma das atrizes mais famosas do mundo.",
+      "tags": [
+        "Romance",
+        "Comédia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "500 Days of Summer",
+      "type": "MOVIE",
+      "year": 2009,
+      "creator": "Marc Webb",
+      "duration": "1h 35min",
+      "description": "Um jovem relembra os altos e baixos de seu relacionamento com Summer.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Comédia"
+      ]
+    },
+    {
+      "title": "The Princess Bride",
+      "type": "MOVIE",
+      "year": 1987,
+      "creator": "Rob Reiner",
+      "duration": "1h 38min",
+      "description": "Um jovem embarca em uma aventura para resgatar a mulher que ama.",
+      "tags": [
+        "Romance",
+        "Fantasia",
+        "Aventura",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Atonement",
+      "type": "MOVIE",
+      "year": 2007,
+      "creator": "Joe Wright",
+      "duration": "2h 3min",
+      "description": "Uma acusação falsa separa dois amantes e altera suas vidas para sempre.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Histórico"
+      ]
+    },
+    {
+      "title": "The Shape of Water",
+      "type": "MOVIE",
+      "year": 2017,
+      "creator": "Guillermo del Toro",
+      "duration": "2h 3min",
+      "description": "Uma mulher muda desenvolve uma ligação inesperada com uma criatura anfíbia mantida em cativeiro.",
+      "tags": [
+        "Romance",
+        "Fantasia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Mass Effect 2",
+      "type": "GAME",
+      "year": 2010,
+      "creator": "BioWare",
+      "duration": "~35h",
+      "description": "O comandante Shepard reúne uma equipe improvável para enfrentar uma ameaça galáctica.",
+      "tags": [
+        "RPG",
+        "Romance",
+        "Sci-Fi",
+        "Narrativa"
+      ]
+    },
+    {
+      "title": "Dragon Age: Origins",
+      "type": "GAME",
+      "year": 2009,
+      "creator": "BioWare",
+      "duration": "~50h",
+      "description": "Um herói deve unir reinos em guerra enquanto constrói alianças e relacionamentos.",
+      "tags": [
+        "RPG",
+        "Fantasy",
+        "Romance",
+        "Narrativa"
+      ]
+    },
+    {
+      "title": "Dream Daddy",
+      "type": "GAME",
+      "year": 2017,
+      "creator": "Game Grumps",
+      "duration": "~8h",
+      "description": "Um pai solteiro se muda para um novo bairro e conhece diversos pretendentes.",
+      "tags": [
+        "Romance",
+        "Visual Novel",
+        "Comédia",
+        "Indie"
+      ]
+    },
+    {
+      "title": "To the Moon",
+      "type": "GAME",
+      "year": 2011,
+      "creator": "Freebird Games",
+      "duration": "~4h",
+      "description": "Dois cientistas viajam pelas memórias de um homem moribundo para realizar seu último desejo.",
+      "tags": [
+        "Romance",
+        "Drama",
+        "Narrativa",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Haven",
+      "type": "GAME",
+      "year": 2020,
+      "creator": "The Game Bakers",
+      "duration": "~12h",
+      "description": "Um casal foge para um planeta desconhecido tentando permanecer unido contra todas as adversidades.",
+      "tags": [
+        "Romance",
+        "Sci-Fi",
+        "Aventura",
+        "Indie"
+      ]
+    },
+    {
+      "title": "The Shining",
+      "type": "MOVIE",
+      "year": 1980,
+      "creator": "Stanley Kubrick",
+      "duration": "2h 26min",
+      "description": "Um escritor aceita o trabalho de zelador de um hotel isolado durante o inverno e lentamente perde a sanidade.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Clássico",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Hereditary",
+      "type": "MOVIE",
+      "year": 2018,
+      "creator": "Ari Aster",
+      "duration": "2h 7min",
+      "description": "Uma família é assombrada por segredos obscuros após a morte da matriarca.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Sobrenatural",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Thing",
+      "type": "MOVIE",
+      "year": 1982,
+      "creator": "John Carpenter",
+      "duration": "1h 49min",
+      "description": "Pesquisadores na Antártida enfrentam uma entidade capaz de imitar qualquer ser vivo.",
+      "tags": [
+        "Terror",
+        "Sci-Fi",
+        "Clássico",
+        "Paranoia"
+      ]
+    },
+    {
+      "title": "The Exorcist",
+      "type": "MOVIE",
+      "year": 1973,
+      "creator": "William Friedkin",
+      "duration": "2h 2min",
+      "description": "Uma jovem é possuída por uma entidade demoníaca e sua mãe busca ajuda desesperadamente.",
+      "tags": [
+        "Terror",
+        "Sobrenatural",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Get Out",
+      "type": "MOVIE",
+      "year": 2017,
+      "creator": "Jordan Peele",
+      "duration": "1h 44min",
+      "description": "Um jovem visita a família de sua namorada e descobre algo profundamente perturbador.",
+      "tags": [
+        "Terror",
+        "Suspense",
+        "Psicológico",
+        "Social"
+      ]
+    },
+    {
+      "title": "Silent Hill 2",
+      "type": "GAME",
+      "year": 2001,
+      "creator": "Konami",
+      "duration": "~10h",
+      "description": "Um homem recebe uma carta de sua falecida esposa e segue para a misteriosa cidade de Silent Hill.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Narrativa",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Resident Evil 2",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "Capcom",
+      "duration": "~10h",
+      "description": "Dois sobreviventes tentam escapar de uma cidade infestada por zumbis.",
+      "tags": [
+        "Terror",
+        "Sobrevivência",
+        "Ação",
+        "Zumbis"
+      ]
+    },
+    {
+      "title": "Dead Space",
+      "type": "GAME",
+      "year": 2008,
+      "creator": "EA Redwood Shores",
+      "duration": "~12h",
+      "description": "Um engenheiro explora uma nave infestada por criaturas grotescas de origem alienígena.",
+      "tags": [
+        "Terror",
+        "Sci-Fi",
+        "Sobrevivência",
+        "Espacial"
+      ]
+    },
+    {
+      "title": "Amnesia: The Dark Descent",
+      "type": "GAME",
+      "year": 2010,
+      "creator": "Frictional Games",
+      "duration": "~8h",
+      "description": "Um homem desperta sem memória em um castelo sombrio e precisa descobrir quem é.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Sobrevivência",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Alien: Isolation",
+      "type": "GAME",
+      "year": 2014,
+      "creator": "Creative Assembly",
+      "duration": "~18h",
+      "description": "Amanda Ripley tenta sobreviver enquanto é caçada por um xenomorfo em uma estação espacial.",
+      "tags": [
+        "Terror",
+        "Sci-Fi",
+        "Sobrevivência",
+        "Espacial"
+      ]
+    },
+    {
+      "title": "It",
+      "type": "BOOK",
+      "year": 1986,
+      "creator": "Stephen King",
+      "duration": "1138 páginas",
+      "description": "Um grupo de amigos enfrenta uma entidade maligna que assume a forma de seus maiores medos.",
+      "tags": [
+        "Terror",
+        "Clássico",
+        "Sobrenatural"
+      ]
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "type": "BOOK",
+      "year": 1959,
+      "creator": "Shirley Jackson",
+      "duration": "246 páginas",
+      "description": "Pesquisadores do paranormal investigam uma mansão considerada uma das mais assombradas do mundo.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Clássico",
+        "Sobrenatural"
+      ]
+    },
+    {
+      "title": "House of Leaves",
+      "type": "BOOK",
+      "year": 2000,
+      "creator": "Mark Z. Danielewski",
+      "duration": "709 páginas",
+      "description": "Uma família descobre que sua casa é maior por dentro do que por fora.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Experimental",
+        "Mistério"
+      ]
+    },
+    {
+      "title": "Pet Sematary",
+      "type": "BOOK",
+      "year": 1983,
+      "creator": "Stephen King",
+      "duration": "374 páginas",
+      "description": "Uma família se muda para uma cidade onde um antigo cemitério guarda segredos terríveis.",
+      "tags": [
+        "Terror",
+        "Sobrenatural",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Call of Cthulhu",
+      "type": "BOOK",
+      "year": 1928,
+      "creator": "H. P. Lovecraft",
+      "duration": "43 páginas",
+      "description": "Um investigador reúne pistas sobre uma entidade cósmica adormecida além da compreensão humana.",
+      "tags": [
+        "Terror",
+        "Cósmico",
+        "Clássico",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "Midsommar",
+      "type": "MOVIE",
+      "year": 2019,
+      "creator": "Ari Aster",
+      "duration": "2h 28min",
+      "description": "Um grupo de amigos visita um festival tradicional na Suécia e descobre rituais perturbadores.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Folk Horror",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Babadook",
+      "type": "MOVIE",
+      "year": 2014,
+      "creator": "Jennifer Kent",
+      "duration": "1h 34min",
+      "description": "Uma mãe viúva e seu filho passam a ser aterrorizados por uma figura saída de um livro infantil.",
+      "tags": [
+        "Terror",
+        "Psicológico",
+        "Sobrenatural",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Ring",
+      "type": "MOVIE",
+      "year": 2002,
+      "creator": "Gore Verbinski",
+      "duration": "1h 55min",
+      "description": "Uma jornalista investiga uma fita de vídeo amaldiçoada ligada a mortes misteriosas.",
+      "tags": [
+        "Terror",
+        "Sobrenatural",
+        "Mistério"
+      ]
+    },
+    {
+      "title": "28 Days Later",
+      "type": "MOVIE",
+      "year": 2002,
+      "creator": "Danny Boyle",
+      "duration": "1h 53min",
+      "description": "Um homem acorda de um coma e encontra a Inglaterra devastada por uma epidemia violenta.",
+      "tags": [
+        "Terror",
+        "Pós-Apocalíptico",
+        "Sobrevivência",
+        "Zumbis"
+      ]
+    },
+    {
+      "title": "Outlast",
+      "type": "GAME",
+      "year": 2013,
+      "creator": "Red Barrels",
+      "duration": "~6h",
+      "description": "Um jornalista investiga um manicômio abandonado e descobre horrores inimagináveis.",
+      "tags": [
+        "Terror",
+        "Sobrevivência",
+        "Psicológico",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Fatal Frame II: Crimson Butterfly",
+      "type": "GAME",
+      "year": 2003,
+      "creator": "Tecmo",
+      "duration": "~12h",
+      "description": "Duas irmãs ficam presas em uma vila assombrada e enfrentam espíritos usando uma câmera especial.",
+      "tags": [
+        "Terror",
+        "Sobrenatural",
+        "Psicológico",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Darkwood",
+      "type": "GAME",
+      "year": 2017,
+      "creator": "Acid Wizard Studio",
+      "duration": "~20h",
+      "description": "Um sobrevivente explora uma floresta hostil onde algo terrível espreita durante a noite.",
+      "tags": [
+        "Terror",
+        "Sobrevivência",
+        "Indie",
+        "Psicológico"
+      ]
+    },
+    {
+      "title": "Signalis",
+      "type": "GAME",
+      "year": 2022,
+      "creator": "rose-engine",
+      "duration": "~10h",
+      "description": "Uma androide procura sua parceira desaparecida em uma instalação decadente repleta de horrores.",
+      "tags": [
+        "Terror",
+        "Sci-Fi",
+        "Psicológico",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Bloodborne",
+      "type": "GAME",
+      "year": 2015,
+      "creator": "FromSoftware",
+      "duration": "~35h",
+      "description": "Um caçador enfrenta monstros e entidades cósmicas em uma cidade consumida pela loucura.",
+      "tags": [
+        "Terror",
+        "Cósmico",
+        "Action RPG",
+        "Fantasy"
+      ]
+    },
+    {
+      "title": "Bird Box",
+      "type": "BOOK",
+      "year": 2014,
+      "creator": "Josh Malerman",
+      "duration": "272 páginas",
+      "description": "Criaturas misteriosas levam pessoas à loucura ao serem observadas.",
+      "tags": [
+        "Terror",
+        "Pós-Apocalíptico",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "The Colour Out of Space",
+      "type": "BOOK",
+      "year": 1927,
+      "creator": "H. P. Lovecraft",
+      "duration": "64 páginas",
+      "description": "Um meteorito traz uma presença alienígena que corrompe tudo ao seu redor.",
+      "tags": [
+        "Terror",
+        "Cósmico",
+        "Sci-Fi",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "The Fisherman",
+      "type": "BOOK",
+      "year": 2016,
+      "creator": "John Langan",
+      "duration": "266 páginas",
+      "description": "Dois viúvos descobrem lendas sombrias ligadas a um lago cercado por forças antigas.",
+      "tags": [
+        "Terror",
+        "Cósmico",
+        "Drama",
+        "Sobrenatural"
+      ]
+    },
+    {
+      "title": "Mexican Gothic",
+      "type": "BOOK",
+      "year": 2020,
+      "creator": "Silvia Moreno-Garcia",
+      "duration": "320 páginas",
+      "description": "Uma jovem investiga acontecimentos estranhos em uma mansão isolada no interior do México.",
+      "tags": [
+        "Terror",
+        "Gótico",
+        "Mistério",
+        "Sobrenatural"
+      ]
+    },
+    {
+      "title": "The Terror",
+      "type": "BOOK",
+      "year": 2007,
+      "creator": "Dan Simmons",
+      "duration": "784 páginas",
+      "description": "Tripulantes de uma expedição ártica lutam para sobreviver a uma presença monstruosa no gelo.",
+      "tags": [
+        "Terror",
+        "Histórico",
+        "Sobrevivência",
+        "Mistério"
+      ]
+    },
+    {
+      "title": "Whiplash",
+      "type": "MOVIE",
+      "year": 2014,
+      "creator": "Damien Chazelle",
+      "duration": "1h 47min",
+      "description": "Um jovem baterista busca a excelência sob a tutela de um professor implacável.",
+      "tags": [
+        "Drama",
+        "Música",
+        "Psicológico"
+      ]
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "type": "MOVIE",
+      "year": 2014,
+      "creator": "Wes Anderson",
+      "duration": "1h 39min",
+      "description": "Um concierge lendário e seu protegido se envolvem em uma aventura repleta de mistérios.",
+      "tags": [
+        "Comédia",
+        "Aventura",
+        "Crime"
+      ]
+    },
+    {
+      "title": "The Truman Show",
+      "type": "MOVIE",
+      "year": 1998,
+      "creator": "Peter Weir",
+      "duration": "1h 43min",
+      "description": "Um homem começa a suspeitar que toda a sua vida faz parte de um programa de televisão.",
+      "tags": [
+        "Drama",
+        "Comédia",
+        "Filosófico"
+      ]
+    },
+    {
+      "title": "Spirited Away",
+      "type": "MOVIE",
+      "year": 2001,
+      "creator": "Hayao Miyazaki",
+      "duration": "2h 5min",
+      "description": "Uma garota entra em um mundo mágico e precisa encontrar uma forma de salvar seus pais.",
+      "tags": [
+        "Fantasia",
+        "Anime",
+        "Aventura",
+        "Família"
+      ]
+    },
+    {
+      "title": "Knives Out",
+      "type": "MOVIE",
+      "year": 2019,
+      "creator": "Rian Johnson",
+      "duration": "2h 10min",
+      "description": "Um detetive investiga a morte misteriosa de um famoso escritor.",
+      "tags": [
+        "Mistério",
+        "Crime",
+        "Comédia"
+      ]
+    },
+    {
+      "title": "Stardew Valley",
+      "type": "GAME",
+      "year": 2016,
+      "creator": "ConcernedApe",
+      "duration": "~80h",
+      "description": "Um simulador de fazenda focado em comunidade, exploração e construção de relacionamentos.",
+      "tags": [
+        "Simulação",
+        "Indie",
+        "Relaxante",
+        "RPG"
+      ]
+    },
+    {
+      "title": "Minecraft",
+      "type": "GAME",
+      "year": 2011,
+      "creator": "Mojang Studios",
+      "duration": "Ilimitado",
+      "description": "Um sandbox onde jogadores exploram, constroem e sobrevivem em mundos gerados proceduralmente.",
+      "tags": [
+        "Sandbox",
+        "Sobrevivência",
+        "Criatividade",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Factorio",
+      "type": "GAME",
+      "year": 2020,
+      "creator": "Wube Software",
+      "duration": "~60h",
+      "description": "Construa e automatize fábricas gigantescas em um planeta alienígena.",
+      "tags": [
+        "Estratégia",
+        "Automação",
+        "Construção",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Slay the Spire",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "Mega Crit",
+      "duration": "~20h",
+      "description": "Mistura de roguelike e construção de baralhos em uma torre repleta de desafios.",
+      "tags": [
+        "Roguelike",
+        "Cartas",
+        "Estratégia",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Civilization VI",
+      "type": "GAME",
+      "year": 2016,
+      "creator": "Firaxis Games",
+      "duration": "~50h",
+      "description": "Lidere uma civilização desde a antiguidade até a era espacial.",
+      "tags": [
+        "Estratégia",
+        "Histórico",
+        "Turnos",
+        "Simulação"
+      ]
+    },
+    {
+      "title": "The Martian",
+      "type": "BOOK",
+      "year": 2011,
+      "creator": "Andy Weir",
+      "duration": "387 páginas",
+      "description": "Um astronauta fica preso em Marte e usa ciência e engenhosidade para sobreviver.",
+      "tags": [
+        "Sci-Fi",
+        "Sobrevivência",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Mistborn: The Final Empire",
+      "type": "BOOK",
+      "year": 2006,
+      "creator": "Brandon Sanderson",
+      "duration": "541 páginas",
+      "description": "Uma jovem descobre poderes raros e participa de uma conspiração contra um império tirânico.",
+      "tags": [
+        "Fantasy",
+        "Épico",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "The Hobbit",
+      "type": "BOOK",
+      "year": 1937,
+      "creator": "J. R. R. Tolkien",
+      "duration": "310 páginas",
+      "description": "Bilbo Bolseiro embarca em uma aventura para recuperar um tesouro guardado por um dragão.",
+      "tags": [
+        "Fantasy",
+        "Clássico",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "type": "BOOK",
+      "year": 1844,
+      "creator": "Alexandre Dumas",
+      "duration": "1276 páginas",
+      "description": "Um homem injustamente preso planeja uma elaborada vingança contra aqueles que o traíram.",
+      "tags": [
+        "Aventura",
+        "Drama",
+        "Clássico"
+      ]
+    },
+    {
+      "title": "Educated",
+      "type": "BOOK",
+      "year": 2018,
+      "creator": "Tara Westover",
+      "duration": "334 páginas",
+      "description": "Memórias de uma mulher que cresceu isolada da sociedade e encontrou transformação através da educação.",
+      "tags": [
+        "Não-ficção",
+        "Biografia",
+        "Inspirador"
+      ]
+    },
+    {
+      "title": "Inside Out",
+      "type": "MOVIE",
+      "year": 2015,
+      "creator": "Pete Docter",
+      "duration": "1h 35min",
+      "description": "As emoções de uma garota tentam guiá-la durante uma grande mudança em sua vida.",
+      "tags": [
+        "Animação",
+        "Família",
+        "Drama",
+        "Comédia"
+      ]
+    },
+    {
+      "title": "Firewatch",
+      "type": "GAME",
+      "year": 2016,
+      "creator": "Campo Santo",
+      "duration": "~5h",
+      "description": "Um vigia florestal investiga eventos estranhos enquanto cria uma conexão por rádio com sua supervisora.",
+      "tags": [
+        "Narrativa",
+        "Mistério",
+        "Indie",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Journey",
+      "type": "GAME",
+      "year": 2012,
+      "creator": "thatgamecompany",
+      "duration": "~3h",
+      "description": "Um viajante cruza um vasto deserto em direção a uma montanha distante.",
+      "tags": [
+        "Aventura",
+        "Indie",
+        "Exploração",
+        "Artístico"
+      ]
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "type": "BOOK",
+      "year": 1880,
+      "creator": "Fyodor Dostoevsky",
+      "duration": "824 páginas",
+      "description": "Três irmãos enfrentam conflitos morais, espirituais e familiares após um assassinato.",
+      "tags": [
+        "Clássico",
+        "Filosófico",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Alchemist",
+      "type": "BOOK",
+      "year": 1988,
+      "creator": "Paulo Coelho",
+      "duration": "208 páginas",
+      "description": "Um pastor viaja pelo deserto em busca de um tesouro e de seu propósito de vida.",
+      "tags": [
+        "Filosófico",
+        "Aventura",
+        "Inspirador"
+      ]
+    },
+    {
+      "title": "The Godfather",
+      "type": "MOVIE",
+      "year": 1972,
+      "creator": "Francis Ford Coppola",
+      "duration": "2h 55min",
+      "description": "O patriarca de uma poderosa família mafiosa passa o controle de seu império para seu filho relutante.",
+      "tags": [
+        "Crime",
+        "Drama",
+        "Clássico",
+        "Máfia"
+      ]
+    },
+    {
+      "title": "1917",
+      "type": "MOVIE",
+      "year": 2019,
+      "creator": "Sam Mendes",
+      "duration": "1h 59min",
+      "description": "Dois soldados britânicos atravessam território inimigo para entregar uma mensagem crucial durante a Primeira Guerra Mundial.",
+      "tags": [
+        "Guerra",
+        "Drama",
+        "Histórico"
+      ]
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "type": "MOVIE",
+      "year": 2018,
+      "creator": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+      "duration": "1h 57min",
+      "description": "Miles Morales descobre seus poderes e encontra versões alternativas do Homem-Aranha.",
+      "tags": [
+        "Animação",
+        "Super-Herói",
+        "Aventura",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "title": "The Social Network",
+      "type": "MOVIE",
+      "year": 2010,
+      "creator": "David Fincher",
+      "duration": "2h",
+      "description": "A criação de uma rede social revolucionária desencadeia conflitos pessoais e jurídicos.",
+      "tags": [
+        "Drama",
+        "Tecnologia",
+        "Biografia"
+      ]
+    },
+    {
+      "title": "Ford v Ferrari",
+      "type": "MOVIE",
+      "year": 2019,
+      "creator": "James Mangold",
+      "duration": "2h 32min",
+      "description": "Engenheiros e pilotos tentam construir um carro capaz de derrotar a Ferrari em Le Mans.",
+      "tags": [
+        "Esporte",
+        "Drama",
+        "Histórico"
+      ]
+    },
+    {
+      "title": "Terraria",
+      "type": "GAME",
+      "year": 2011,
+      "creator": "Re-Logic",
+      "duration": "~100h",
+      "description": "Explore cavernas, construa bases e enfrente chefes em um vasto mundo 2D.",
+      "tags": [
+        "Sandbox",
+        "Sobrevivência",
+        "Aventura",
+        "Indie"
+      ]
+    },
+    {
+      "title": "XCOM 2",
+      "type": "GAME",
+      "year": 2016,
+      "creator": "Firaxis Games",
+      "duration": "~40h",
+      "description": "A humanidade luta contra uma ocupação alienígena através de combates táticos por turnos.",
+      "tags": [
+        "Estratégia",
+        "Sci-Fi",
+        "Turnos",
+        "Tático"
+      ]
+    },
+    {
+      "title": "Ori and the Blind Forest",
+      "type": "GAME",
+      "year": 2015,
+      "creator": "Moon Studios",
+      "duration": "~10h",
+      "description": "Um espírito guardião embarca em uma jornada para salvar uma floresta em decadência.",
+      "tags": [
+        "Metroidvania",
+        "Plataforma",
+        "Aventura",
+        "Drama"
+      ]
+    },
+    {
+      "title": "FTL: Faster Than Light",
+      "type": "GAME",
+      "year": 2012,
+      "creator": "Subset Games",
+      "duration": "~15h",
+      "description": "Comande uma nave espacial enquanto tenta entregar informações vitais através da galáxia.",
+      "tags": [
+        "Roguelike",
+        "Estratégia",
+        "Sci-Fi",
+        "Indie"
+      ]
+    },
+    {
+      "title": "Rocket League",
+      "type": "GAME",
+      "year": 2015,
+      "creator": "Psyonix",
+      "duration": "Ilimitado",
+      "description": "Carros movidos a foguetes competem em partidas de futebol de alta velocidade.",
+      "tags": [
+        "Esporte",
+        "Competitivo",
+        "Multiplayer"
+      ]
+    },
+    {
+      "title": "The Road",
+      "type": "BOOK",
+      "year": 2006,
+      "creator": "Cormac McCarthy",
+      "duration": "287 páginas",
+      "description": "Pai e filho atravessam uma América devastada tentando sobreviver.",
+      "tags": [
+        "Distopia",
+        "Drama",
+        "Pós-Apocalíptico"
+      ]
+    },
+    {
+      "title": "The Lies of Locke Lamora",
+      "type": "BOOK",
+      "year": 2006,
+      "creator": "Scott Lynch",
+      "duration": "722 páginas",
+      "description": "Um mestre dos golpes planeja assaltos ousados em uma cidade inspirada na Veneza renascentista.",
+      "tags": [
+        "Fantasy",
+        "Crime",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "The Pillars of the Earth",
+      "type": "BOOK",
+      "year": 1989,
+      "creator": "Ken Follett",
+      "duration": "973 páginas",
+      "description": "A construção de uma catedral transforma a vida de diversas pessoas na Inglaterra medieval.",
+      "tags": [
+        "Histórico",
+        "Drama",
+        "Épico"
+      ]
+    },
+    {
+      "title": "The Selfish Gene",
+      "type": "BOOK",
+      "year": 1976,
+      "creator": "Richard Dawkins",
+      "duration": "360 páginas",
+      "description": "Uma obra influente sobre evolução vista pela perspectiva dos genes.",
+      "tags": [
+        "Não-ficção",
+        "Ciência",
+        "Biologia"
+      ]
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "type": "BOOK",
+      "year": 2011,
+      "creator": "Daniel Kahneman",
+      "duration": "499 páginas",
+      "description": "Uma análise dos processos mentais que influenciam decisões e julgamentos.",
+      "tags": [
+        "Não-ficção",
+        "Psicologia",
+        "Ciência"
+      ]
+    },
+    {
+      "title": "The Iron Giant",
+      "type": "MOVIE",
+      "year": 1999,
+      "creator": "Brad Bird",
+      "duration": "1h 26min",
+      "description": "Um garoto faz amizade com um robô gigante vindo do espaço.",
+      "tags": [
+        "Animação",
+        "Sci-Fi",
+        "Família",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Castle in the Sky",
+      "type": "MOVIE",
+      "year": 1986,
+      "creator": "Hayao Miyazaki",
+      "duration": "2h 4min",
+      "description": "Duas crianças procuram uma lendária cidade flutuante repleta de segredos.",
+      "tags": [
+        "Anime",
+        "Fantasia",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Pentiment",
+      "type": "GAME",
+      "year": 2022,
+      "creator": "Obsidian Entertainment",
+      "duration": "~20h",
+      "description": "Um artista investiga uma série de assassinatos em uma comunidade da Baviera do século XVI.",
+      "tags": [
+        "Narrativa",
+        "Mistério",
+        "Histórico",
+        "RPG"
+      ]
+    },
+    {
+      "title": "A Short Hike",
+      "type": "GAME",
+      "year": 2019,
+      "creator": "Adam Robinson-Yu",
+      "duration": "~3h",
+      "description": "Uma jovem pássaro explora um parque nacional em busca de sinal para seu celular.",
+      "tags": [
+        "Indie",
+        "Exploração",
+        "Relaxante",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "The Art of War",
+      "type": "BOOK",
+      "year": -500,
+      "creator": "Sun Tzu",
+      "duration": "273 páginas",
+      "description": "Tratado clássico sobre estratégia, liderança e tomada de decisões.",
+      "tags": [
+        "Clássico",
+        "Estratégia",
+        "Filosofia",
+        "Não-ficção"
+      ]
+    }
+  ]
+}
